@@ -9,18 +9,46 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@littleMissingDataAssumptions2021
 
 # References
 
-@ref1
+@afifi1966
 
-- Summary
+-   Summary:
 
-- Reliability and relationship to the topic
+    -   This article's main purpose is to discuss the issue of missing data in regression formulas. How to handle this information given different situations and how to implement theses solutions. They the go into talking about how these missing observations can be estimated by first order regression, zero order regression methods, along with a couple of other methods. We also see many citations to other articles for proofs and applications of these various methods of estimating missing values in a data set. They also discuss using maximum liklihood estimation to estimate missing values in large vectors of data. We finally see that this article focuses on both if the predictors or/and the response variable is missing and how to fix the issue by way of estimation.
 
-- Missing pieces
-    - thing 1
+-   Reliability and relationship to the topic
 
-    - thing 2
+    -   The article is published in the American Statistical Association, which is a highly reputable source. We also see that the authors are distinguished faculty at UCLA with many other cite-able sources. Finally we see that this article has a direct relationship with any article on missing values in data as it provides a summary of a variety of research methods necessary to this topic.
+
+-   Missing pieces
+
+    -   thing 1
+
+        -   One thing that this article is missing is possibly some examples of these methods in place and making sure that they are being implemented correctly.
+
+    -   thing 2
+
+        -   Another thing that this article is missing is the lack of background information for a reader who is not well versed in the statistical field.
+
+@andersonMaximumLikelihoodEstimates1957
+
+-   Summary
+
+    -   This articles goal is to look into the idea of maximum likelihood estimation and its role in data sets with missing values. This article discusses the mathematical manipulation processes necessary when using methods that were developed recently for this issue. This article then gives mathematical reasoning and proof like descriptions of the MLE process for missing data using a bivariate normal distribution.
+
+-   Reliability and relationship to the topic
+
+    -   This article is of high reliability as it is published in the American Statistical Association. T.W. Anderson, the author, is also a distinguished faculty member and the University of Columbia. We also see that this article was published a long time ago, 1957, but it again seems to be a foundational article in the field.
+
+-   Missing pieces
+
+    -   thing 1
+
+        -   I think more background on the initial idea and how it takes place in the data would be useful in this article as we kind of jump right in.
+
+    -   thing 2
+
+        -   I also think that a broader view of the methods developed might be useful as seeing them implemented in a theoretical sense is a bit confusing at time.s
