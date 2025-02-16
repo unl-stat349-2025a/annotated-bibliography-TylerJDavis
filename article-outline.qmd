@@ -1,0 +1,73 @@
+---
+title: "article-outline"
+format: html
+editor: visual
+---
+
+## Reverse Outline
+
+Thesis: Reviewing assumptions about missing data mechanisms that underlie methods for statistical analysis of data with missing values.
+
+Section 1
+
+Introduction to Ruben's definition of missing at random
+
+-   Goes over the underling theory and definitions applied to concepts discuss throughout the article on missing data assumptions.
+
+Section 2
+
+Introduction of using likelihood inference with missing data assumptions.
+
+-   goes over how and when to use likelihood methods in analyzing data with missing values.
+
+Sufficient conditions for ignoring the missingness mechanism for Bayesian inference.
+
+-   How the Bayesian process is applied to missing data and how to undergo the process of using it.
+
+Sufficient conditions for ignoring the missingness mechanism for asymptotic frequentest MLE.
+
+-   When to ignore missingness assuptions discussed earlier in the paper.
+
+Unit missing and random and missing always and random
+
+-   Defining MAR and MAAR in ways that the reader can apply for future discussions about missing data.
+
+The nature of unit missing at random and its meaning for monotone and nonmonotone missingness patterns.
+
+-   discuss the meaning of MAR for simple patterns of missing data. How we can apply concepts discussed in paper.
+
+Approaches to likelihood based inference with missing data.
+
+-   Talks about the idea, if the data is MAR then analysis can be based on ignorable likelihood, avoiding missingness mechanism.
+
+Section 3
+
+Introduction
+
+-   discussing the implications of non likelihood methods when analyzing missing data.
+
+Literature review of non - likelihood methods
+
+-   discussed common misconceptions and ways that missing data has been treated in the past.
+
+Section 4
+
+informative missingness
+
+-   defining informative missingness and informative censoring and their relationship with missingness mechanisms described in previous sections.
+
+partial missing at random and ignorability for parameter subsets
+
+-   How we can apply MAR and ingnorable missingness to a full set of parameters.
+
+Missingness as a coarsening mechanism
+
+-   defining data coarsening mechanisms and how they are related to missing value analysis.
+
+Conclusion
+
+-   Closes up article and summarizes what is talked about.
+
+Gaps?
+
+I don't find many gaps in this article. It is a very through analysis of the missing data assumptions and mechanisms. A lot of this article did go slightly above my head but I was able to reason my way through it slightly. I know that it is a complex issue that can be handled in a variety of ways and I believe that author does a good job explaining his point, while also referencing past resrouces.
